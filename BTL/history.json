@@ -1,0 +1,30 @@
+[
+  {
+    "input": "xin chaos cacj ban",
+    "output": "Vì bạn chỉ cung cấp một đoạn văn ngắn (\"xin chaos cacj ban\") chứ không phải là ảnh, tôi sẽ sửa lỗi trong đoạn văn đó.\n\n---\n\n**Câu sai:**\nxin chaos cacj ban\n\n**Lỗi sai và sửa lại:**\n\n1.  **Lỗi:** \"chaos\"\n    *   **Giải thích:** Đây là một từ tiếng Anh (nghĩa là \"hỗn loạn\") và không phù hợp trong ngữ cảnh chào hỏi tiếng Việt. Rất có thể đây là lỗi đánh máy hoặc nhầm lẫn của từ \"chào\" trong tiếng Việt.\n    *   **Sửa lại:** **chào**\n\n2.  **Lỗi:** \"cacj\"\n    *   **Giải thích:** Đây là lỗi chính tả/đánh máy. Ký tự \"j\" bị thừa hoặc sai vị trí. Từ đúng phải là \"các\" (dùng để chỉ số nhiều).\n    *   **Sửa lại:** **các**\n\n**Câu đúng đã được sửa và viết lại tự nhiên:**\n\nXin chào các bạn."
+  },
+  {
+    "input": "xin chòa",
+    "output": "Đoạn văn bạn cung cấp chỉ có một cụm từ. Dưới đây là phần sửa lỗi theo yêu cầu của bạn:\n\n**Câu sai:** xin chòa\n**Lỗi sai:** Lỗi chính tả. Từ \"chòa\" không đúng, phải là \"chào\".\n**Câu đúng:** Xin chào"
+  },
+  {
+    "input": "(Ảnh)",
+    "output": "Đoạn văn trong ảnh là: \"Toi cam on ban\"\n\nPhân tích:\n\n**Câu gốc:** Toi cam on ban\n\n**Lỗi sai:**\n\n*   **Chính tả/Ngữ pháp:** Không có lỗi chính tả hoặc ngữ pháp.\n*   **Hình thức:** Từ đầu câu \"Toi\" cần được viết hoa chữ cái đầu tiên khi bắt đầu một câu.\n\n**Viết lại câu đúng:**\n\n**Tôi cảm ơn bạn.**"
+  },
+  {
+    "input": "chao cacj ban",
+    "output": "Đoạn văn bạn muốn tôi sửa lỗi là: \"chao cacj ban\"\n\n**Câu sai:** chao cacj ban\n\n**Lỗi sai và viết lại câu đúng:**\n\n*   **Lỗi sai:**\n    *   \"chao\" thiếu dấu thanh (thanh huyền).\n    *   \"cacj\" viết sai chính tả (thừa chữ 'j', thiếu chữ 's') và thiếu dấu thanh (thanh sắc).\n    *   \"ban\" thiếu dấu thanh (thanh nặng).\n*   **Câu đúng:** Chào các bạn"
+  },
+  {
+    "input": "xin lòi bạn nhe",
+    "output": "Đây là đoạn văn đã được sửa lỗi chính tả, ngữ pháp và viết lại bằng tiếng Việt tự nhiên:\n\n**Viết lại câu sai:**\n\nXin lỗi bạn nhé.\n\n**Chỉ ra lỗi sai và viết lại câu đúng:**\n\n*   **Lỗi:** \"lòi\" (viết sai chính tả).\n    **Đúng:** \"lỗi\" (mang nghĩa hối lỗi, xin lỗi).\n*   **Lỗi:** \"nhe\" (thiếu dấu).\n    **Đúng:** \"nhé\" (một trợ từ làm mềm câu nói, thể hiện sự thân mật)."
+  },
+  {
+    "input": "cam ơn bàn",
+    "output": "Đoạn văn gốc:\n\"cam ơn bàn\"\n\nĐây là câu đã được sửa lỗi chính tả và ngữ pháp, viết lại bằng tiếng Việt tự nhiên:\n\n**Cảm ơn bạn.**\n\n---\n\nDưới đây là phần chỉ ra lỗi sai và viết lại câu đúng:\n\n**1. Lỗi sai:** \"cam ơn\"\n*   **Giải thích lỗi:** Từ đúng để bày tỏ lòng biết ơn là \"cảm ơn\" (hoặc \"cám ơn\"). Chữ \"a\" cần có dấu hỏi hoặc dấu ngã. \"Cảm ơn\" là cách dùng phổ biến và chuẩn mực nhất.\n*   **Viết lại câu đúng:** Cảm ơn bạn.\n\n**2. Lỗi sai:** \"bàn\"\n*   **Giải thích lỗi:** Từ \"bàn\" có nghĩa là đồ vật (cái bàn) hoặc hành động (bàn bạc). Trong ngữ cảnh này, từ đúng để chỉ người được nói đến là \"bạn\" (friend/you).\n*   **Viết lại câu đúng:** Cảm ơn bạn."
+  },
+  {
+    "input": "cam on vi da den",
+    "output": "Đoạn văn của bạn có một câu, và câu này cần được sửa lỗi chính tả để trở nên tự nhiên và đúng ngữ pháp trong tiếng Việt.\n\n---\n\n**Viết lại đoạn văn (chỉ viết lại câu sai):**\n\nCảm ơn vì đã đến.\n\n---\n\n**Chỉ ra lỗi sai và viết lại câu đúng:**\n\n*   **Câu gốc:** \"cam on vi da den\"\n*   **Lỗi sai 1:** \"cam on\"\n    *   **Giải thích lỗi:** Đây là lỗi thiếu dấu thanh và viết sai nguyên âm. \"Cam\" không có nghĩa là \"cảm\", và \"on\" không có nghĩa là \"ơn\".\n    *   **Viết lại đúng:** \"cảm ơn\"\n*   **Lỗi sai 2:** \"vi\"\n    *   **Giải thích lỗi:** Thiếu dấu thanh. \"Vi\" không có nghĩa là \"vì\".\n    *   **Viết lại đúng:** \"vì\"\n*   **Lỗi sai 3:** \"da den\"\n    *   **Giải thích lỗi:** Đây là lỗi viết sai từ và thiếu dấu thanh. \"Da\" nghĩa là \"skin\", không phải \"đã\" (trạng từ chỉ thời gian quá khứ). \"Den\" nghĩa là \"black\", không phải \"đến\" (động từ \"to come/arrive\").\n    *   **Viết lại đúng:** \"đã đến\"\n\n---\n\n**Toàn bộ câu đúng sau khi sửa:**\n\nCảm ơn vì đã đến."
+  }
+]
